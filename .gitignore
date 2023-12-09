@@ -1,0 +1,19 @@
+.vscode
+
+# dependencies
+Client/search-bar/node_modules
+Client/search-bar/.pnp
+Client/search-bar/.pnp.js
+
+# misc
+Client/search-bar.DS_Store
+Client/search-bar.env.local
+Client/search-bar.env.development.local
+Client/search-bar.env.test.local
+Client/search-bar.env.production.local
+
+Client/search-bar/npm-debug.log*
+Client/search-bar/yarn-debug.log*
+Client/search-bar/yarn-error.log*
+
+Server/node_modules
